@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+ 
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
-  "author": "",
+  "author": "Akintunde Oluborode",
   "license": "ISC"
 }
